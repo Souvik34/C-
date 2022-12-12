@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+section 
+{
+    height: 2000vh;
+    overflow: hidden;
+    background: black;
+}
+p
+{
+    position: relative;
+    font-size: 0.5em;
+    letter-spacing: -0.05em;
+    line-height: 0.7em;
+    background: url(sb.png);
+    background-blend-mode: color-dodge;
+    background-position-x: center ;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-clip: text;
+    color: transparent;
+}

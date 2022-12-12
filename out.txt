@@ -1,0 +1,81 @@
+Output :
+
+Question 1.
+
+Both cases included:
+a=5 b=6;
+
+sum= 11;
+difference= 1;
+multiply= 30;
+division= 1;
+
+Question 2.
+
+Enter a number
+34 // entered by the user
+Even Number
+
+
+Enter a number
+23 // entered by the user
+Odd number
+
+Question 3.
+
+Enter length, breadth and radius
+
+6 4 2 // entered by the user
+
+area of rectangle: 24
+perimeter of rectangle: 20
+
+area of circle: 12.56
+Circumference of circle: 17.12
+
+Question 4.
+
+20
+
+Question 5.
+
+Enter a character
+a //entered by the user
+
+vowel
+
+b //entered by the user
+consonant
+
+Question 6.
+
+Enter the year
+2022 //entered by the user
+
+not  a leap year
+
+2012 // entered by the user
+ 
+leap year
+
+
+Question 7.
+
+Enter the Number
+
+4 //entered by the user
+positive
+
+0 //entered by the user
+zero
+
+Question 8.
+
+Enter a number
+
+153 // entered by the user
+Armstrong number
+
+23 // entered by the user
+Not an Armstrong number
+
